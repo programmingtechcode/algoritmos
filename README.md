@@ -13,6 +13,9 @@ Es una comunidad y canal de youtube que se encarga de fomentar el estudio y apre
 
 [![Open Source Helpers](https://www.codetriage.com/programmingtechcode/algoritmos/badges/users.svg)](https://www.codetriage.com/programmingtechcode/algoritmos)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![Discord](https://img.shields.io/discord/963630102074261524?style=for-the-badge)
+
+## Comunidad Discord
 
 
 ## Recursos algoritmos
