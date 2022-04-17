@@ -15,6 +15,13 @@ Es una comunidad y canal de youtube que se encarga de fomentar el estudio y apre
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
+## Recursos algoritmos
+**Ejercicio 1:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio1)
+**Ejercicio 2:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio2)
+**Ejercicio 3:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio3)
+**Ejercicio 4:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio4)
+**Ejercicio 5:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio5)
+
 ## Tech Stack
 
 **Software:** Pseint
