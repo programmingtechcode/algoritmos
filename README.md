@@ -16,11 +16,11 @@ Es una comunidad y canal de youtube que se encarga de fomentar el estudio y apre
 
 
 ## Recursos algoritmos
-**Ejercicio 1:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio1)
-**Ejercicio 2:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio2)
-**Ejercicio 3:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio3)
-**Ejercicio 4:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio4)
-**Ejercicio 5:** (https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio5)
+[![Ejercicio1]](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio1)
+[![Ejercicio2]](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio2)
+[![Ejercicio3](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio3)
+[![Ejercicio4]](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio4)
+[![Ejercicio5]](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio5)
 
 ## Tech Stack
 
