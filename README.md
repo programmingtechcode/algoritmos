@@ -16,7 +16,7 @@ Es una comunidad y canal de youtube que se encarga de fomentar el estudio y apre
 
 
 ## Comunidad Discord
-![Discord](https://img.shields.io/discord/963630102074261524?style=for-the-badge)(https://discord.gg/Pbd2XWRGdW)
+- [Discord](https://discord.gg/Pbd2XWRGdW)
 
 ## Recursos algoritmos
 - [Ejercicio1](https://github.com/programmingtechcode/algoritmos/tree/main/Ejercicios/Ejercicio1)
