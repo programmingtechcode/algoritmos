@@ -36,7 +36,7 @@ Es una comunidad y canal de youtube que se encarga de fomentar el estudio y apre
 ## 🔗 Links
 
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/Programingtechcode/)
-![Discord Shield](https://discord.gg/yhEvyTeTwZ]/widget.png?style=shield)
+![Discord Shield](https://discordapp.com/api/guilds/963630102074261524]/widget.png?style=shield)
 
 
 
